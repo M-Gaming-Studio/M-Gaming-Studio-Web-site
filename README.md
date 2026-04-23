@@ -6,6 +6,6 @@ I create this web-site in 10-11 days only. The problem is that the language of t
 
 Please enjoy the web-site.
 
-You can ask me questions about modifications for the web-site, videogames project ideas, and more. To this, you can send me a e-mail or just follow me on dev.to!
+You can ask me questions about modifications for the web-site, videogames project ideas, and more. To this, you can send me a e-mail or just follow me here or on the web-site of dev.to!
 
 Thank you.
