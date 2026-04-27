@@ -142,6 +142,10 @@ body {
     font-size: 1.5em;
 }
 
+.project-progress-title {
+    font-size: 1.5em;
+}
+
 .index-title {
     font-size: 1.5em;
 }
@@ -200,6 +204,12 @@ h1 {
     font-size: 1.15em;
     line-height: 1.7;
 }
+
+.avancement {
+    animation: slideDown 0.8s ease-out;
+}
+
+
 
 header {
     background: #000000;
